@@ -1,2 +1,2 @@
-# k8s-asf-orleans
-Kubernetes/ASF/Orleans
+# k8s-based software infrastructure platform
+
